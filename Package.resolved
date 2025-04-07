@@ -1,0 +1,95 @@
+{
+  "pins" : [
+    {
+      "identity" : "devicekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/devicekit/DeviceKit.git",
+      "state" : {
+        "revision" : "691fe8112cca20ebf0020a1709d4e0205400311c",
+        "version" : "5.0.0"
+      }
+    },
+    {
+      "identity" : "oscaessentials-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git-dev.solingen.de/smartcityapp/modules/oscaessentials-ios.git",
+      "state" : {
+        "revision" : "5d1b70ad973bb4349161b07e6a70437c4a62ba5b",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "oscamap-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git-dev.solingen.de/smartcityapp/modules/oscamap-ios.git",
+      "state" : {
+        "revision" : "327ed33b621b49a2873bb0199d3dec283f206a15",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "oscamapui-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git-dev.solingen.de/smartcityapp/modules/oscamapui-ios.git",
+      "state" : {
+        "revision" : "d7006ef28e93759906571e4ce8c7f3cc23010f05",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "oscamobilitymonitor-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git-dev.solingen.de/smartcityapp/modules/oscamobilitymonitor-ios.git",
+      "state" : {
+        "revision" : "ce2c98b49f9de5536589be80a400ed7bcf1e20b1",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "oscanetworkservice-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git-dev.solingen.de/smartcityapp/modules/oscanetworkservice-ios.git",
+      "state" : {
+        "revision" : "cef4de73d626ff2cff3c563351d2f9c830f1316c",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "oscatestcaseextension-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git-dev.solingen.de/smartcityapp/modules/oscatestcaseextension-ios.git",
+      "state" : {
+        "revision" : "e67304bba8bc14a761ffe3873321838ce03a93af",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "oscaweather-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git-dev.solingen.de/smartcityapp/modules/oscaweather-ios.git",
+      "state" : {
+        "revision" : "7780e22d982a99ddbdc31088c62e3cae098e8f30",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "swift-atomics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-atomics.git",
+      "state" : {
+        "revision" : "ff3d2212b6b093db7f177d0855adbc4ef9c5f036",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "swiftdate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malcommac/SwiftDate.git",
+      "state" : {
+        "revision" : "5d943224c3bb173e6ecf27295611615eba90c80e",
+        "version" : "7.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}

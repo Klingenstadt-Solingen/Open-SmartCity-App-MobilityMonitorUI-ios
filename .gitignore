@@ -1,0 +1,64 @@
+## Xcode
+.DS_Store
+
+## VSCode
+.vscode
+
+## Build generated
+build/
+DerivedData/
+build.log
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xcuserstate
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+.build/
+.swiftpm/
+# Package.resolved
+
+## CocoaPods
+Pods/
+
+## Carthage
+Carthage/Build
+
+## Jazzy docs
+# docs/
+
+## Fastlane
+fastlane/report.xmlhttps://git-dev.solingen.de/smartcityapp/modules/oscajobsui-ios/-/commit/e9cebc7cb9e14ba2725a21ebed7e96c519a2ab8b
+fastlane/Preview.html
+fastlane/test_output
+
+## Gem
+Gemfile.lock
+
+
+## supporting Files secrets
+OSCAMobilityUI/OSCAMobilityUI/SupportingFiles/Development.xcconfig
+OSCAMobilityUI/OSCAMobilityUI/SupportingFiles/Production.xcconfig
+OSCAMobilityUI/OSCAMobilityUITests/Resources/API_Develop.plist
+OSCAMobilityUI/OSCAMobilityUITests/Resources/API_Release.plist

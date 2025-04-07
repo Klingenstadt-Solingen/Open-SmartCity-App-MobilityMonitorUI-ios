@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  OSCAMobilityUI
+
+  Created by Mammut Nithammer on 05.10.22.
+  
+*/
+
+// The alert title for an error
+"alert_title_error" = "Error";
+// The alert action title to confirm
+"alert_title_confirm" = "OK";
+// Title of the view controller
+"mobility_title" = "Mobilitätsmonitor";
